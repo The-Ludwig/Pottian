@@ -11,3 +11,7 @@ Function declaration: Wenn'ne [Name] machst, dann [...].
 
 Function call: Gib' mal [Funktionsname].
 
+Exception throw: Kannste halt so machen, ist dann aber [Exception].
+
+
+
